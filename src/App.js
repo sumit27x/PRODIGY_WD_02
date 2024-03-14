@@ -1,9 +1,9 @@
-import Weather from "./Weather/Weather";
+import Watch from "./Watch/Watch";
 
 function App() {
   return (
     <>
-    <Weather/>
+    <Watch/>
     </>
   );
 }
